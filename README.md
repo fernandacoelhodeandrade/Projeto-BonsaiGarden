@@ -1,5 +1,7 @@
 # Bonsai Garden
+
 ![BonsaiGarden](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/27a9565a-9c31-4897-a382-a470085ce87a)
+
 Projeto Interdisciplinar, do curso de graduação em [Gestão da Tecnologia da Informação](https://github.com/gti-ifpr) do Instituto Federal do Paraná (IFPR) - *Campus* Pinhais.
 
 ## Equipe:
@@ -25,9 +27,7 @@ Além disso, percebemos a importância de fornecer informações detalhadas e or
 
 A ausência de um site comercial traz diversos problemas, como a perda de alcance global, dificuldade em competir *online*, falta de conveniência para os clientes, limitação na divulgação de informações detalhadas, desafios na construção da marca e restrição de horário comercial. Em um mundo onde a presença *online* é essencial, a falta de um *site* comercial pode limitar seriamente o potencial de crescimento e sucesso nos negócios. 🚀
 
-
 > "A paciência é a essência de uma jornada bem-sucedida na arte dos produtos. Assim como o cultivo cresce lentamente, nossa paixão e dedicação também devem amadurecer com o tempo. 🌟" - Autor Desconhecido
-
 
 
 ## Funcionalidades
