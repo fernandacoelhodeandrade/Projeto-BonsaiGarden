@@ -1,7 +1,7 @@
 # Bonsai Garden
 ![BonsaiGarden](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/27a9565a-9c31-4897-a382-a470085ce87a)
 
-Projeto Interdisciplinar, do curso de graduação em Gestão da Tecnologia da Informação do Instituto Federal do Paraná - Campus Pinhais (IFPR).
+Projeto Interdisciplinar, do curso de graduação em [Gestão da Tecnologia da Informação](https://github.com/gti-ifpr) do Instituto Federal do Paraná - Campus Pinhais (IFPR).
 
 ## Equipe:
 * 👩🏼‍💻 Fernanda Coelho de Andrade
