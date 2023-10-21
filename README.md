@@ -1,7 +1,8 @@
 # Bonsai Garden
+
 ![BonsaiGarden](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/27a9565a-9c31-4897-a382-a470085ce87a)
 
-Projeto Interdisciplinar, do curso de graduação em [Gestão da Tecnologia da Informação](https://github.com/gti-ifpr) do Instituto Federal do Paraná - Campus Pinhais (IFPR).
+Projeto Interdisciplinar, do curso de graduação em [Gestão da Tecnologia da Informação](https://github.com/gti-ifpr) do Instituto Federal do Paraná (IFPR) - *Campus* Pinhais.
 
 ## Equipe:
 * 👩🏼‍💻 Fernanda Coelho de Andrade
@@ -11,14 +12,39 @@ Projeto Interdisciplinar, do curso de graduação em [Gestão da Tecnologia da I
 * 👩🏼‍🏫 Profª. Ma. [Lauriana Paludo](https://github.com/lauriana)
 
 ## Descrição
-O "WhereIGo" é uma aplicação web que fornece ao usuário sugestões de novos bares e restaurantes filtrados a partir de seus gostos pessoais, como vinho, música, especilidade de comida, endereço e ambiente. A aplicação utiliza os dados abertos referentes a bares e restaurantes do Recife, que pode ser encontrado no link: http://dados.recife.pe.gov.br/dataset/bares-e-restaurantes; Basicamente, a aplicação: 
 
-* Busca na base de dados uma sugestão para cliente a partir de seus gostos pessoais;
-* Compartilha o local sugerido via redes sociais;
-* Cadastra novos estabelecimentos;
-* Adiciona informações a estabelecimentos já existentes.
+O *Bonsai Garden* é uma aplicação *web* dedicada à venda de produtos, fornecendo aos clientes uma maneira fácil de explorar, adquirir e aprender sobre uma ampla variedade de produtos. 🌱
+
+Nossa plataforma oferece um catálogo abrangente de produtos, incluindo informações detalhadas sobre cada um. Além disso, fornecemos suporte ao cliente para responder a perguntas e orientar nossos clientes. 🛒
+
+Um site é essencial para qualquer negócio que deseje prosperar. A ausência de uma plataforma online pode resultar na perda de alcance global, dificuldades em competir no mercado, falta de comodidade para os clientes, restrição na divulgação de informações detalhadas e dificuldades em estabelecer uma presença de marca online. Em um ambiente onde a presença na internet é crucial, não ter um site pode restringir significativamente o potencial de crescimento e sucesso no setor. 💼
 
 ## Justificativa
-Todas as pessoas já passaram por um momento "WhereIGo", em que não sabiam um novo local que se adeque aos seus gostos. Aliado a isso, o setor de alimentação fora de casa – ou de bares e restaurantes - cresce 10% anualmente segundo a Abrasel (Associação Brasileira de Bares e Restaurantes), sendo assim, a cada ano existem novas variedades surgindo e satisfazendo os gostos alheios. Desse modo, o "WhereIGo" tem como objetivo suprir essa demanda em ascenção.
 
-Fonte: http://www.sebrae.com.br/sites/PortalSebrae/artigos/bares-e-restaurantes-um-setor-em-expansao,1038d53342603410VgnVCM100000b272010aRCRD
+A inspiração para o *Bonsai Garden* surgiu da necessidade de preencher uma lacuna de mercado nas regiões de Pinhais e Colombo. Embora o cultivo de produtos seja uma prática popular, não havia uma plataforma dedicada a essa comunidade de amantes de produtos nessas regiões. 🌍
+
+Além disso, percebemos a importância de fornecer informações detalhadas e orientações sobre os produtos que vendemos. O cultivo requer cuidados específicos, e nosso objetivo é educar nossos clientes sobre o cultivo, cuidado e história desses produtos. 📚
+
+A ausência de um site comercial traz diversos problemas, como a perda de alcance global, dificuldade em competir online, falta de conveniência para os clientes, limitação na divulgação de informações detalhadas, desafios na construção da marca e restrição de horário comercial. Em um mundo onde a presença online é essencial, a falta de um site comercial pode limitar seriamente o potencial de crescimento e sucesso nos negócios. 🚀
+
+> "A paciência é a essência de uma jornada bem-sucedida na arte dos produtos. Assim como o cultivo cresce lentamente, nossa paixão e dedicação também devem amadurecer com o tempo." - Autor Desconhecido
+
+Referência: Citação inspiradora criada para o projeto **Bonsai Garden**. 🌟
+
+## Funcionalidades
+
+- **Catálogo Abundante:** Explore uma ampla variedade de produtos. 🌿
+
+- **Suporte ao Cliente:** Fornecemos suporte dedicado para responder a perguntas e orientar nossos clientes. 📞
+
+- **Ferramenta de Busca:** Encontre facilmente o que você procura em nosso catálogo. 🔍
+
+- **Cadastro de Cliente:** Torne a experiência de compra mais conveniente ao criar sua conta. 📋
+
+- **Carrinho de Compra:** Adicione produtos ao carrinho e finalize a compra quando estiver pronto. 🛒
+
+- **Conteúdo Multimídia:** Veja imagens e vídeos dos produtos, bem como informações adicionais. 📷🎥
+
+- **Informações Institucionais:** Conheça nossa empresa e sua missão. 🏢
+
+- **Contato Direto:** Converse diretamente com as empresas listadas no site para finalizar compras e discutir detalhes. 📧💬
