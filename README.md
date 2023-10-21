@@ -5,10 +5,10 @@ Projeto Interdisciplinar, do curso de graduação em Gestão da Tecnologia da In
 
 ## Equipe:
 * 👩🏼‍💻 Fernanda Coelho de Andrade
-* 👩🏻‍💻 Letícia da Luz Anastácio
+* 👩🏻‍💻 Letícia da Luz Anastácio 
 
 ## Orientadora:
-* 👩🏼‍🏫 Profª. Ma. Lauriana Paludo [Profª. Ma. Lauriana Paludo](https://github.com/lauriana)
+* 👩🏼‍🏫 Profª. Ma. [Lauriana Paludo](https://github.com/lauriana)
 
 ## Descrição
 O "WhereIGo" é uma aplicação web que fornece ao usuário sugestões de novos bares e restaurantes filtrados a partir de seus gostos pessoais, como vinho, música, especilidade de comida, endereço e ambiente. A aplicação utiliza os dados abertos referentes a bares e restaurantes do Recife, que pode ser encontrado no link: http://dados.recife.pe.gov.br/dataset/bares-e-restaurantes; Basicamente, a aplicação: 
