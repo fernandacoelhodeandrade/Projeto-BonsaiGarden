@@ -49,3 +49,11 @@ A ausência de um site comercial traz diversos problemas, como a perda de alcanc
 - **Informações Institucionais:** Conheça nossa empresa e sua missão. 🏢
 
 - **Contato Direto:** Converse diretamente com as empresas listadas no site para finalizar compras e discutir detalhes. 📧💬
+
+
+[![IFPR-Pinhais](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/c9be3c52-5e01-41f2-b437-bdea9df33ec4)](https://ifpr.edu.br/pinhais/)
+
+
+
+
+[![GTI](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/d5af0b90-5e48-4ba3-a637-aecc11f6d05b)](https://ifpr.edu.br/pinhais/ifpr-pinhais/nossos-cursos/cursos-superiores/gti/)
