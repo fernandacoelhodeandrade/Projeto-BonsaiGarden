@@ -47,3 +47,5 @@ A ausência de um site comercial traz diversos problemas, como a perda de alcanc
 - **Informações Institucionais:** Conheça nossa empresa e sua missão. 🏢
 
 - **Contato Direto:** Converse diretamente com as empresas listadas no site para finalizar compras e discutir detalhes. 📧💬
+
+![planta-em-vaso-e-tesoura-no-arranjo-de-mesa](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/adb2ddb7-66ca-4f88-af4a-5dba72f69056)
