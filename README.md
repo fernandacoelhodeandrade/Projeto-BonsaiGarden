@@ -58,3 +58,7 @@ A ausência de um site comercial traz diversos problemas, como a perda de alcanc
 </a>&nbsp;
 &nbsp;<a href="https://ifpr.edu.br/pinhais/ifpr-pinhais/nossos-cursos/cursos-superiores/gti/">
   <img src="https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/4dca575b-9e06-44ee-b3f8-0fcb17e4283d">
+
+
+[![IFPR-Pinhais](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/11a60581-d14b-41c9-bd7c-54cc6553d277)](https://ifpr.edu.br/pinhais/)
+
