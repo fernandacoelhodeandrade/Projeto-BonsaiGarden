@@ -8,10 +8,8 @@ Link do app no Heroku: http://where-i-go.herokuapp.com/
 Screencast: https://drive.google.com/open?id=1mZnqGwSX0IcfSF7Hac0c_iDjwFKKfVkS
 
 ## Equipe:
-* Antonio Augusto Corrêa Gondim Neto: Desenvolvedor Back-End e Gerente de Projeto
-* Eduardo Santos de Moura: Desenvolvedor Back-End
-* Marcos Vinicius Holanda Borges: Desenvolvedor de Testes
-* Vinicius Giles Costa Paulino: Desenvolvedor Front-End
+* 👩🏼‍💻 Fernanda Coelho de Andrade
+* 👩🏻‍💻 Letícia da Luz Anastácio
 
 ## Descrição
 O "WhereIGo" é uma aplicação web que fornece ao usuário sugestões de novos bares e restaurantes filtrados a partir de seus gostos pessoais, como vinho, música, especilidade de comida, endereço e ambiente. A aplicação utiliza os dados abertos referentes a bares e restaurantes do Recife, que pode ser encontrado no link: http://dados.recife.pe.gov.br/dataset/bares-e-restaurantes; Basicamente, a aplicação: 
