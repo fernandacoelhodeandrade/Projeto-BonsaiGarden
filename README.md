@@ -27,7 +27,6 @@ Além disso, percebemos a importância de fornecer informações detalhadas e or
 
 A ausência de um site comercial traz diversos problemas, como a perda de alcance global, dificuldade em competir *online*, falta de conveniência para os clientes, limitação na divulgação de informações detalhadas, desafios na construção da marca e restrição de horário comercial. Em um mundo onde a presença *online* é essencial, a falta de um *site* comercial pode limitar seriamente o potencial de crescimento e sucesso nos negócios. 🚀
 
-
 ![planta-em-vaso-e-tesoura-no-arranjo-de-mesa](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/741dcab9-1251-4d3e-8aba-18fc6b9d30a5)
 
 > "A paciência é a essência de uma jornada bem-sucedida na arte dos produtos. Assim como o cultivo cresce lentamente, nossa paixão e dedicação também devem amadurecer com o tempo. 🌟" - Autor Desconhecido
