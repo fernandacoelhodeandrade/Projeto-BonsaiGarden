@@ -1,7 +1,7 @@
-# WhereIGo
-![WhereIGo](https://user-images.githubusercontent.com/18203276/31318014-7114942a-ac21-11e7-952b-dcfd46b3b2f3.png)
+# Bonsai Garden
+![BonsaiGarden](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/27a9565a-9c31-4897-a382-a470085ce87a)
 
-Projeto da disciplina (IF977) Engenharia de Software, do curso de graduação em Sistemas de Informação do Centro de Informática da Universidade Federal de Pernambuco (UFPE).
+Projeto Interdisciplinar, do curso de graduação em Gestão da Tecnologia da Informação do Instituto Federal do Paraná - Campus Pinhais (IFPR).
 
 Link do app no Heroku: http://where-i-go.herokuapp.com/
 
