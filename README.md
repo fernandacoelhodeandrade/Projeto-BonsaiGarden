@@ -56,5 +56,8 @@ A ausência de um site comercial traz diversos problemas, como a perda de alcanc
 
 ![IFPR-GTI](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/289c4a78-5674-484c-a879-649764096614)
 <br>
+![Design sem nome (3)](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/9f7c60f2-ee0d-43f2-8e56-8e61181496e5)
+
+<br>
 [IFPR - *Campus* Pinhais](https://ifpr.edu.br/pinhais/) | [Gestão da Tecnologia da Informação](https://ifpr.edu.br/pinhais/ifpr-pinhais/nossos-cursos/cursos-superiores/gti/)
 
