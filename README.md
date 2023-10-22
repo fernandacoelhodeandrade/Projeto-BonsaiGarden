@@ -51,9 +51,7 @@ A ausência de um site comercial traz diversos problemas, como a perda de alcanc
 - **Contato Direto:** Converse diretamente com as empresas listadas no site para finalizar compras e discutir detalhes. 📧💬
 
 
-### Veja mais em:
-[![IFPR-Pinhais](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/f04c2474-9680-4d55-b8ae-0ce294f846b4)][ifpr]
-[![Gestão da Tecnologia da Informação](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/40de5a69-d908-4b56-91b5-e1de1428c5f5)][gti]
+### Saiba mais sobre:
 
-[ifpr]: https://ifpr.edu.br/pinhais/
-[gti]: https://github.com/gti-ifpr/
+![GTI](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/21a6e3d7-564e-4ece-8d7e-d88e9a295ebc)
+[Gestão da Tecnologia da Informação](https://ifpr.edu.br/pinhais/ifpr-pinhais/nossos-cursos/cursos-superiores/gti/)
