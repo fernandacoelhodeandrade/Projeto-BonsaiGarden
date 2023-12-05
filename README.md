@@ -82,9 +82,9 @@ Lembretes de rega e manutenção.
 
 **Metas do MPV:**
 
-**-** Lançamento de uma versão funcional da plataforma.
-**-** Engajamento inicial de usuários para coleta de feedback.
-**-** Identificação e resolução de problemas de usabilidade.
+- Lançamento de uma versão funcional da plataforma.
+- Engajamento inicial de usuários para coleta de feedback.
+- Identificação e resolução de problemas de usabilidade.
 
 <br><br>
 
