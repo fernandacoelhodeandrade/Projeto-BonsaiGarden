@@ -50,6 +50,42 @@ A ausência de um site comercial traz diversos problemas, como a perda de alcanc
 
 - **Contato Direto:** Converse diretamente com as empresas listadas no site para finalizar compras e discutir detalhes. 📧💬
 
+## Mínimo Produto Viável (MVP)
+
+**Objetivo Principal:**
+Desenvolver uma plataforma online que oferece uma experiência única para bonsaistas, permitindo a compra, personalização e cuidado virtual de seus próprios bonsais.
+
+**Funcionalidades-Chave:**
+
+- **Exploração Intuitiva:**
+Interface amigável e intuitiva para fácil navegação.
+Categorias organizadas para explorar diferentes tipos de bonsais.
+- **Personalização do Bonsai:**
+Opções abrangentes para personalizar bonsais, incluindo escolha de vasos, tipos de solo e acessórios.
+Visualização em tempo real das escolhas de personalização.
+- **Cadastro e Login:**
+Processo de cadastro simplificado para uma experiência personalizada.
+Login seguro e fácil, garantindo a privacidade do usuário.
+- **Compra Simplificada:**
+Carrinho de compras intuitivo.
+Múltiplos métodos de pagamento para conveniência do usuário.
+- **Cuidado Virtual:**
+Dicas e informações sobre cuidados com bonsais.
+Lembretes de rega e manutenção.
+
+**Benefícios para o Usuário:**
+
+- **Experiência Imersiva:** Explore, personalize e cuide do seu bonsai virtual como se fosse real.
+- **Facilidade de Uso:** Navegação e compra descomplicadas, mesmo para iniciantes.
+- **Personalização Única:** Crie um bonsai único e sob medida para suas preferências.
+- **Aprendizado Constante:** Dicas e lembretes para cultivar a paixão pelos bonsais.
+
+**Metas do MPV:**
+
+**-** Lançamento de uma versão funcional da plataforma.
+**-** Engajamento inicial de usuários para coleta de feedback.
+**-** Identificação e resolução de problemas de usabilidade.
+
 <br><br>
 
 ### Saiba mais sobre:
