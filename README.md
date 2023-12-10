@@ -86,7 +86,7 @@ Lembretes de rega e manutenção.
 - Engajamento inicial de usuários para coleta de *feedback*.
 - Identificação e resolução de problemas de usabilidade.
 
-**Processo de Pagamento Direto com Vendedor**
+## Processo de Pagamento Direto com Vendedor
 
 A Bonsai Garden optou por uma abordagem que prioriza a confiança e segurança dos nossos usuários. Em vez de integrar um sistema de pagamento *online* na plataforma, facilitamos o contato direto entre compradores e vendedores.
 
