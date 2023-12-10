@@ -53,7 +53,7 @@ A ausência de um site comercial traz diversos problemas, como a perda de alcanc
 ## Mínimo Produto Viável (MVP)
 
 **Objetivo Principal:**
-Desenvolver uma plataforma online que oferece uma experiência única para bonsaistas, permitindo a compra, personalização e cuidado virtual de seus próprios bonsais.
+Desenvolver uma plataforma *online* que oferece uma experiência única para bonsaistas, permitindo a compra, personalização e cuidado virtual de seus próprios bonsais.
 
 **Funcionalidades-Chave:**
 
@@ -65,7 +65,7 @@ Opções abrangentes para personalizar bonsais, incluindo escolha de vasos, tipo
 Visualização em tempo real das escolhas de personalização.
 - **Cadastro e Login:**
 Processo de cadastro simplificado para uma experiência personalizada.
-Login seguro e fácil, garantindo a privacidade do usuário.
+*Login* seguro e fácil, garantindo a privacidade do usuário.
 - **Compra Simplificada:**
 Carrinho de compras intuitivo.
 Múltiplos métodos de pagamento para conveniência do usuário.
@@ -83,16 +83,16 @@ Lembretes de rega e manutenção.
 **Metas do MPV:**
 
 - Lançamento de uma versão funcional da plataforma.
-- Engajamento inicial de usuários para coleta de feedback.
+- Engajamento inicial de usuários para coleta de *feedback*.
 - Identificação e resolução de problemas de usabilidade.
 
 **Processo de Pagamento Direto com Vendedor**
 
-A Bonsai Garden optou por uma abordagem que prioriza a confiança e segurança dos nossos usuários. Em vez de integrar um sistema de pagamento online na plataforma, facilitamos o contato direto entre compradores e vendedores.
+A Bonsai Garden optou por uma abordagem que prioriza a confiança e segurança dos nossos usuários. Em vez de integrar um sistema de pagamento *online* na plataforma, facilitamos o contato direto entre compradores e vendedores.
 
 **Motivação:**
-- Segurança Financeira: Reconhecemos que os bonsais, sendo itens de valor considerável, geram preocupações quanto a transações online de alto valor. Permitir que os compradores discutam diretamente com os vendedores proporciona uma camada adicional de segurança financeira.
-- Negociações Personalizadas: O cultivo de bonsais é uma arte única, e cada árvore possui suas características distintas. Ao facilitar as negociações diretamente entre as partes envolvidas, promovemos a possibilidade de personalização nas transações.
+- Segurança Financeira: Reconhecemos que os bonsais, sendo itens de valor considerável, geram preocupações quanto a transações *online* de alto valor. Permitir que os compradores discutam diretamente com os vendedores proporciona uma camada adicional de segurança financeira.
+- Negociações Personalizadas: Ao facilitar as negociações diretamente entre as partes envolvidas, promovemos a possibilidade de personalização nas transações.
 
 **Como Funciona:**
 - Redirecionamento para o Vendedor: Ao finalizar a escolha do bonsai, os compradores são automaticamente redirecionados para entrar em contato diretamente com o vendedor para acertar detalhes de pagamento.
