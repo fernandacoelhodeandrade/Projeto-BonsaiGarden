@@ -88,7 +88,7 @@ Lembretes de rega e manutenção.
 
 ## Processo de Pagamento Direto com Vendedor
 
-A Bonsai Garden optou por uma abordagem que prioriza a confiança e segurança dos nossos usuários. Em vez de integrar um sistema de pagamento *online* na plataforma, facilitamos o contato direto entre compradores e vendedores.
+A *Bonsai Garden* optou por uma abordagem que prioriza a confiança e segurança dos nossos usuários. Em vez de integrar um sistema de pagamento *online* na plataforma, facilitamos o contato direto entre compradores e vendedores.
 
 **Motivação:**
 - Segurança Financeira: Reconhecemos que os bonsais, sendo itens de valor considerável, geram preocupações quanto a transações *online* de alto valor. Permitir que os compradores discutam diretamente com os vendedores proporciona uma camada adicional de segurança financeira.
