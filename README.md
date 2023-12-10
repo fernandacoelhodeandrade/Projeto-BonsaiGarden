@@ -86,6 +86,23 @@ Lembretes de rega e manutenção.
 - Engajamento inicial de usuários para coleta de feedback.
 - Identificação e resolução de problemas de usabilidade.
 
+**Processo de Pagamento Direto com Vendedor**
+
+A Bonsai Garden optou por uma abordagem que prioriza a confiança e segurança dos nossos usuários. Em vez de integrar um sistema de pagamento online na plataforma, facilitamos o contato direto entre compradores e vendedores.
+
+**Motivação:**
+- Segurança Financeira: Reconhecemos que os bonsais, sendo itens de valor considerável, geram preocupações quanto a transações online de alto valor. Permitir que os compradores discutam diretamente com os vendedores proporciona uma camada adicional de segurança financeira.
+- Negociações Personalizadas: O cultivo de bonsais é uma arte única, e cada árvore possui suas características distintas. Ao facilitar as negociações diretamente entre as partes envolvidas, promovemos a possibilidade de personalização nas transações.
+
+**Como Funciona:**
+- Redirecionamento para o Vendedor: Ao finalizar a escolha do bonsai, os compradores são automaticamente redirecionados para entrar em contato diretamente com o vendedor para acertar detalhes de pagamento.
+- Comunicação Aberta: Encorajamos a comunicação aberta e transparente entre compradores e vendedores. Isso permite discutir métodos de pagamento, prazos e outras questões específicas.
+
+**Benefícios:**
+-Segurança: Os compradores têm a segurança de lidar diretamente com o vendedor.
+-Negociação Personalizada: Facilita negociações específicas e personalizadas.
+-Experiência do Usuário: Simplifica o processo, aumentando a confiança do usuário.
+
 <br><br>
 
 ### Saiba mais sobre:
