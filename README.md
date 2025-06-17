@@ -10,7 +10,7 @@ Projeto Interdisciplinar, do curso de graduação em [Gestão da Tecnologia da I
 
 ## Orientadora:
 * 👩🏼‍🏫 Profª. Dra. Eliana Maria dos Santos
-* 👩🏼‍🏫 Profª. Ma. [Lauriana Paludo](https://github.com/lauriana)
+* 👩🏿‍🏫 Profª. Ma. [Lauriana Paludo](https://github.com/lauriana)
 
 ## Descrição
 
