@@ -32,22 +32,22 @@ Além disso, ao facilitar a comunicação com o cliente final, nossos sites cont
 
 ![planta-em-vaso-e-tesoura-no-arranjo-de-mesa](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/741dcab9-1251-4d3e-8aba-18fc6b9d30a5)
 
-> "Assim como o bonsai cresce com cuidado e paciência, acreditamos que a presença digital de uma empresa também deve ser cultivada com dedicação." 🌿
+> "Assim como o bonsai cresce com cuidado e paciência, acreditamos que a presença digital de uma empresa também deve ser cultivada com dedicação."
 
 
 ## Funcionalidades das Plataformas Criadas
 
-- **Página Inicial Atraente:** Design moderno que apresenta a empresa e os produtos. 🏠
+- **Página Inicial Atraente:** Design moderno que apresenta a empresa e os produtos.
 
-- **Catálogo de Produtos:** Exibição dos bonsais disponíveis com fotos e descrições. 🌳
+- **Catálogo de Produtos:** Exibição dos bonsais disponíveis com fotos e descrições.
 
-- **Formulário de Contato ou Link para WhatsApp:** Canal direto com o cliente. 💬
+- **Formulário de Contato ou Link para WhatsApp:** Canal direto com o cliente.
 
-- **Sessão “Sobre Nós” e Missão da Empresa:** Reforço da identidade da marca. 🧭
+- **Sessão “Sobre Nós” e Missão da Empresa:** Reforço da identidade da marca.
 
-- **Responsividade:** Sites adaptáveis a celular, tablet e computador. 📱💻
+- **Responsividade:** Sites adaptáveis a celular, tablet e computador.
 
-- **Simples de Atualizar:** Orientação para atualizações futuras. 🛠️
+- **Simples de Atualizar:** Orientação para atualizações futuras.
 
 
 ## Mínimo Produto Viável (MVP)
@@ -81,6 +81,7 @@ Esse modelo é ideal para empresas que vendem produtos de alto valor ou personal
 <br><br>
 
 ### Saiba mais sobre:
+
 
 ![IFPR-GTI](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/9f7c60f2-ee0d-43f2-8e56-8e61181496e5)
 <br>
