@@ -14,7 +14,7 @@ Projeto Interdisciplinar, do curso de graduação em [Gestão da Tecnologia da I
 
 ## Descrição
 
-O *Bonsai Garden* é uma solução digital pensada especialmente para empresas que trabalham com a venda de bonsais. 🌱
+O *Bonsai Garden* é uma solução digital pensada especialmente para empresas que trabalham com a venda de bonsais.
 Nosso objetivo é oferecer **sites personalizados** para esses negócios, proporcionando uma presença online profissional, moderna e funcional.
 
 Com a crescente importância do ambiente digital, muitos produtores e lojistas de bonsai ainda enfrentam dificuldades para divulgar seus produtos na internet. O *Bonsai Garden* surge para preencher essa lacuna, criando sites que facilitam a exibição de catálogos, o contato com clientes e o fortalecimento da marca no meio digital. 💻✨
