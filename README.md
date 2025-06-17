@@ -27,7 +27,8 @@ A ideia do *Bonsai Garden* nasceu da observação de que muitas empresas especia
 
 Nosso projeto busca **ajudar essas empresas a crescer**, conectando-as a um público maior por meio de sites bonitos, organizados e funcionais.
 
-Além disso, ao facilitar a comunicação com o cliente final, nossos sites contribuem para a valorização da arte do bonsai e para a expansão desse mercado no Brasil. 🌍
+Além disso, ao facilitar a comunicação com o cliente final, nossos sites contribuem para a valorização da arte do bonsai e para a expansão desse mercado no Brasil. 
+
 
 ![planta-em-vaso-e-tesoura-no-arranjo-de-mesa](https://github.com/fernandacoelhodeandrade/Projeto-BonsaiGarden/assets/128326129/741dcab9-1251-4d3e-8aba-18fc6b9d30a5)
 
