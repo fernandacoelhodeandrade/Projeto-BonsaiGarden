@@ -9,8 +9,8 @@ Projeto Interdisciplinar, do curso de graduação em [Gestão da Tecnologia da I
 * 👩🏻‍💻 Letícia da Luz Anastácio 
 
 ## Orientadora:
-* 👩🏼‍🏫 Profª. Dra. [Eliana Maria dos Santos](https://github.com/lauriana)
-* 👩🏼‍🏫 Profª. Ma. Lauriana Paludo
+* 👩🏼‍🏫 Profª. Dra. Eliana Maria dos Santos
+* 👩🏼‍🏫 Profª. Ma. [Lauriana Paludo](https://github.com/lauriana)
 
 ## Descrição
 
