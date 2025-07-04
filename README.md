@@ -88,6 +88,9 @@ Esse modelo é ideal para empresas que vendem produtos de alto valor ou personal
 [IFPR - *Campus* Pinhais](https://ifpr.edu.br/pinhais/) | [Gestão da Tecnologia da Informação](https://ifpr.edu.br/pinhais/ifpr-pinhais/nossos-cursos/cursos-superiores/gti/)
 
 
+
+
+
 ---
 
 ## 📄 Direitos Autorais e Licença
