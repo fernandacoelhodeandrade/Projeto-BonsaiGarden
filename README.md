@@ -78,7 +78,7 @@ Nos sites criados pelo *Bonsai Garden*, **o pagamento não ocorre online**. Opta
 
 Esse modelo é ideal para empresas que vendem produtos de alto valor ou personalizados, como bonsais. Ele simplifica o processo e fortalece a relação direta entre vendedor e comprador. 🤝
 
-<br><br>
+<br>
 
 ### Saiba mais sobre:
 
@@ -87,7 +87,7 @@ Esse modelo é ideal para empresas que vendem produtos de alto valor ou personal
 <br>
 [IFPR - *Campus* Pinhais](https://ifpr.edu.br/pinhais/) | [Gestão da Tecnologia da Informação](https://ifpr.edu.br/pinhais/ifpr-pinhais/nossos-cursos/cursos-superiores/gti/)
 
-<br><br><br>
+<br><br>
 
 ---
 
