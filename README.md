@@ -93,6 +93,7 @@ Esse modelo é ideal para empresas que vendem produtos de alto valor ou personal
 
 ## 📄 Direitos Autorais e Licença
 
+
 Este projeto foi desenvolvido como parte do Projeto Interdisciplinar do curso de **Gestão da Tecnologia da Informação**, no **Instituto Federal do Paraná (IFPR) – Campus Pinhais**, em 2025.
 
 **Equipe:**
@@ -105,10 +106,13 @@ Este projeto foi desenvolvido como parte do Projeto Interdisciplinar do curso de
 
 Este repositório está licenciado sob a licença **Creative Commons - Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0)**.
 
+[![Licença: CC BY-NC 4.0](https://img.shields.io/badge/Licença-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 Isso significa que:
 - ✅ Você pode visualizar, estudar e compartilhar o conteúdo.
 - ❌ **Não é permitido copiar, vender ou utilizar comercialmente** este material sem autorização prévia.
 
 Para mais detalhes sobre a licença, acesse:  
 [https://creativecommons.org/licenses/by-nc/4.0/deed.pt](https://creativecommons.org/licenses/by-nc/4.0/deed.pt)
+
 
