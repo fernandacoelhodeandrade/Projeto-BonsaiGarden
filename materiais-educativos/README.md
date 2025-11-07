@@ -11,5 +11,5 @@ Este guia foi desenvolvido como **Recurso Educacional Aberto (REA)** para apoiar
 👉 [Acessar o guia online](https://www.flipsnack.com/6896ADFF8D6/guia-para-empreendedores-do-setor-de-bonsai)
 
 📎 **Versão em PDF:**  
-➡️ [Baixar Cartilha_Bonsai_Garden.pdf](./Guia_para_Empreendedores_do_Setor_de_Bonsai.pdf)
+➡️ [Baixar Guia_para_Empreendedores_do_Setor_de_Bonsai.pdf](./Guia_para_Empreendedores_do_Setor_de_Bonsai.pdf)
 
